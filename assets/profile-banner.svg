@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Daffa Dhiyaulhaq Khadafi — Product Engineer</title><desc id="desc">A navy editorial banner with a product development diagram and green accents.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b9d0cb" stroke-opacity=".07"/></pattern><linearGradient id="bg"><stop stop-color="#0e1928"/><stop offset="1" stop-color="#172a3a"/></linearGradient></defs>
+<rect width="1280" height="360" rx="22" fill="url(#bg)"/><rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="#b6d6bd" opacity=".2"><circle cx="1100" cy="160" r="220"/><circle cx="1100" cy="160" r="155"/><path d="M820 265L1180 70M850 50L1200 270"/></g>
+<rect x="52" y="49" width="34" height="3" fill="#bdd4b2"/><text x="101" y="57" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#bdd4b2">INDEPENDENT BUILDER / INDONESIA</text>
+<text x="52" y="134" font-family="Arial,sans-serif" font-weight="700" font-size="46" letter-spacing="-1.4" fill="#f4f1e8">Daffa Dhiyaulhaq Khadafi</text>
+<text x="52" y="182" font-family="Arial,sans-serif" font-size="24" fill="#d2dbdd">Software engineering. Product thinking.</text>
+<text x="52" y="221" font-family="Arial,sans-serif" font-size="18" fill="#b4c4cb">Turning useful ideas into thoughtful digital experiences.</text>
+<path d="M52 273H754" stroke="#718892" stroke-opacity=".5"/>
+<text x="52" y="309" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#bdd4b2">UNDERSTAND</text><path d="M186 304H223l-6-5m6 5-6 5" stroke="#bdd4b2" fill="none"/>
+<text x="242" y="309" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#bdd4b2">BUILD</text><path d="M314 304H351l-6-5m6 5-6 5" stroke="#bdd4b2" fill="none"/>
+<text x="370" y="309" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#bdd4b2">VERIFY</text><path d="M455 304H492l-6-5m6 5-6 5" stroke="#bdd4b2" fill="none"/>
+<text x="511" y="309" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#bdd4b2">IMPROVE</text>
+<g transform="translate(950 100)"><rect width="228" height="160" rx="12" fill="#0e1b27" stroke="#6a838e"/><circle cx="18" cy="18" r="3" fill="#bdd4b2"/><circle cx="30" cy="18" r="3" fill="#607784"/><circle cx="42" cy="18" r="3" fill="#607784"/><path d="M0 35H228" stroke="#455f6c"/><path d="m66 70-20 23 20 23m96-46 20 23-20 23m-36-57-19 67" stroke="#bdd4b2" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
